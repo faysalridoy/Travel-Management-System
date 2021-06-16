@@ -1,0 +1,2 @@
+# Travel-Management-System
+The purpose of this document is to give a detailed description of the requirements for the “Travel management system project” for Software Engineering &amp; Information System Course. It will show the purpose of this application. It will also explain system constraints, interface and interactions with other external applications. This document is primarily intended to be proposed to our honorary instructor for its approval and a reference for developing the first version of the system for the development team.
